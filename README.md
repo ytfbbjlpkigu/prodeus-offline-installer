@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Prodeus is a first-person shooter of old, re-imagined using modern rendering techniques and technology. Experience the quality you’d expect from a modern AAA game, designed with retro aesthetics and gameplay that invoke the tech-imposed limits of older hardware.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OS X |
+| **Processor** | Min: CPU @ 2+ GHz, 4 cores / Rec: CPU @ 3+ GHz, 8 cores | CPU @ 2+ GHz, 4 cores |
+| **Memory** | Min: 2 GB RAM / Rec: 6 GB RAM | 2 GB RAM |
+| **Graphics** | Min: NVidia GTX 580 or AMD HD 7870 / Rec: NVidia GTX 1050 or AMD RX 560 | NVidia GTX 580 or AMD HD 7870 |
+| **DirectX** | Min: Version 9.0 / Rec: Version 10 | Version 9.0 |
+| **Storage** | 4 GB available space | 4 GB available space |
+| **OS *** | Windows 7+ | Windows 7+ |
 
 ---
 
